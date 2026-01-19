@@ -1,0 +1,44 @@
+name: still_alive
+description: "A dead man's switch safety app - check in regularly or alert your emergency contacts."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # UI
+  cupertino_icons: ^1.0.8
+  
+  # Backend - Supabase
+  supabase_flutter: ^2.8.0
+  
+  # Secure Storage
+  flutter_secure_storage: ^9.2.2
+  
+  # Auth providers
+  google_sign_in: ^6.2.2
+  sign_in_with_apple: ^6.1.3
+  crypto: ^3.0.6
+  
+  # Notifications
+  flutter_local_notifications: ^18.0.1
+  timezone: ^0.10.0
+  
+  # Permissions
+  permission_handler: ^11.3.1
+  
+  # Utils
+  intl: ^0.20.1
+  uuid: ^4.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
