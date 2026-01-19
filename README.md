@@ -12,14 +12,6 @@
 
 ---
 
-## 📱 Screenshots
-
-| Home Screen | Check-in History | Settings | Alert Preview |
-|:---:|:---:|:---:|:---:|
-| ![Home](https://via.placeholder.com/200x400?text=Home+Screen) | ![History](https://via.placeholder.com/200x400?text=History) | ![Settings](https://via.placeholder.com/200x400?text=Settings) | ![Alert](https://via.placeholder.com/200x400?text=Alert) |
-
----
-
 ## ✨ Key Features
 
 - **🛡️ Secure Authentication**: Sign in with Email, Google, or Apple.
@@ -129,23 +121,6 @@ supabase/
 - [ ] v0.2.0: Push notifications, Widget support
 - [ ] v0.3.0: Location sharing in emergency alerts
 - [ ] v1.0.0: Multiple alert channels (Email, Telegram, WhatsApp)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
